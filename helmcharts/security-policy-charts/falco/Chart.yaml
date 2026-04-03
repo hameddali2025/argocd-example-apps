@@ -5,6 +5,6 @@ type: application
 version: 1.17.2
 appVersion: "1.17.2"
 dependencies:
-  - name: falcooooooo
+  - name: falco
     version:  "1.17.2"
     repository:  "https://falcosecurity.github.io/charts"
