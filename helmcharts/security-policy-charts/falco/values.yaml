@@ -1,3 +1,5 @@
 controller:
     deployment:
         replicas: 2
+serviceAccount:
+        name: falco-sa
