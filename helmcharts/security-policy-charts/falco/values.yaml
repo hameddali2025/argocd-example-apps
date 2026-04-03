@@ -1,0 +1,3 @@
+controller:
+    deployment:
+        replicas: 2
